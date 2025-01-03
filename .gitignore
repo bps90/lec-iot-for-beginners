@@ -1,0 +1,14 @@
+
+*.pyc
+lib/
+bin/
+
+pyvenv.cfg
+
+.DS_Store
+
+include/site/python3.11/greenlet/
+
+share/jupyter/kernels/python3/
+
+share/man/man1/
