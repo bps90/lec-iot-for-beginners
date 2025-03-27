@@ -12,3 +12,5 @@ include/site/python3.11/greenlet/
 share/jupyter/kernels/python3/
 
 share/man/man1/
+
+02-farm/1-GDD/temperature.csv
